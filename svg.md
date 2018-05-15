@@ -223,7 +223,7 @@ style值有 fill/fill-opacity/stroke/stroke-width/stroke-opacity/fill-rule
 意思为文本内每一个文字的旋转角度/整体文本的旋转角度
 代码：
 	<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="1000">
-	  <text x="20" y="200" fill="red" fill-opacity=".5" font-size="200" st roke="black" stroke-width="10">I love SVG</text>
+	  <text x="20" y="200" fill="red" fill-opacity=".5" font-size="200" stroke="black" stroke-width="10">I love SVG</text>
 	</svg>
 
 —————————————————————————SVG (可伸缩矢量图形)———————————————————————————— 
